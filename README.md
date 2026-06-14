@@ -6,7 +6,7 @@ I specialize in bridging the gap between traditional on-premises infrastructure 
 
 *   🔭 **I’m currently working on:** Enterprise infrastructure operations, server remediation, and hybrid cloud deployments.
 *   🌱 **I’m currently learning:** Advanced Linux system hardening and cross-platform security configurations.
-*   💬 **Ask me about:** Windows Server administration, Azure Identity & Governance, Active Directory, and VM provisioning.
+*   💬 **Ask me about:** Windows Server administration, Azure Identity & Governance, Active Directory, Azure Storage, Docker, Terraform and VM provisioning.
 *   📫 **How to reach me:** [Linkedin] (https://www.linkedin.com/in/saikrishna-vempati) | Based in Vijayawada/Hyderabad.
 *   ⚡ **Fun fact:** I love optimizing processes, whether it is streamlining a server deployment or finding the fastest mental math shortcut to solve a problem!
 
